@@ -6,6 +6,9 @@
 
 [![Gitter chat](https://badges.gitter.im/orientechnologies/orientdb.png)](https://gitter.im/orientechnologies/orientdb)
 
+[![security status](https://www.meterian.com/badge/gh/johnsblatter/orientdb/security)](https://www.meterian.com/report/gh/johnsblatter/orientdb)
+[![defect status](https://www.meterian.com/badge/gh/johnsblatter/orientdb/defect)](https://www.meterian.com/report/gh/johnsblatter/orientdb)
+
 ------
 
 <img src="http://orientdb.com/orientdb-studio_800px.png">
